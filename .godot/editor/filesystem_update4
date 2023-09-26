@@ -32,3 +32,4 @@ res://source/match/units/projectiles/CannonShell.tscn
 res://tests/manual/maps/NonQuadratic.tscn
 res://tests/manual/TestAllUnits.tscn
 res://source/match/units/traits/debug/ActionCaption.tscn
+res://source/match/Match.tscn
